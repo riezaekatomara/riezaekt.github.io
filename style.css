@@ -1,0 +1,255 @@
+.font1 {
+  font-family: "Questrial", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+.font2 {
+  font-family: "Questrial", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  margin: 20px;
+}
+
+.button1 {
+  background-color: #8b4513;
+  color: azure;
+  font-family: "Questrial", serif;
+  font-weight: 700;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-column: repeat(3, 1fr);
+  gap: 2.5rem;
+  text-align: center;
+  font-size: medium;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.button1:hover {
+  cursor: pointer;
+  background-color: bisque;
+  color: #333333;
+  transform: scale(110%);
+  -webkit-transform: scale(110%);
+  -moz-transform: scale(110%);
+  -ms-transform: scale(110%);
+  -o-transform: scale(110%);
+  transition: cubic-bezier(0.215, 0.61, 0.355, 1) ease-in-out;
+  -webkit-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -moz-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -ms-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -o-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.button2 {
+  background-color: #8b4513;
+  color: azure;
+  font-family: "Questrial", serif;
+  font-weight: 700;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-column: repeat(3, 1fr);
+  gap: 2.5rem;
+  text-align: center;
+  font-size: medium;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.button2:hover {
+  cursor: pointer;
+  background-color: bisque;
+  color: #333333;
+  transform: scale(110%);
+  -webkit-transform: scale(110%);
+  -moz-transform: scale(110%);
+  -ms-transform: scale(110%);
+  -o-transform: scale(110%);
+  transition: cubic-bezier(0.215, 0.61, 0.355, 1) ease-in-out;
+  -webkit-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -moz-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -ms-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -o-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.button3 {
+  background-color: #8b4513;
+  color: azure;
+  font-family: "Questrial", serif;
+  font-weight: 700;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-column: repeat(3, 1fr);
+  gap: 2.5rem;
+  text-align: center;
+  font-size: medium;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.button3:hover {
+  cursor: pointer;
+  background-color: bisque;
+  color: #333333;
+  transform: scale(110%);
+  -webkit-transform: scale(110%);
+  -moz-transform: scale(110%);
+  -ms-transform: scale(110%);
+  -o-transform: scale(110%);
+  transition: cubic-bezier(0.215, 0.61, 0.355, 1) ease-in-out;
+  -webkit-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -moz-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -ms-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -o-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.button4 {
+  background-color: #8b4513;
+  color: azure;
+  font-family: "Questrial", serif;
+  font-weight: 700;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-column: repeat(3, 1fr);
+  gap: 2.5rem;
+  text-align: center;
+  font-size: medium;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.button4:hover {
+  cursor: pointer;
+  background-color: bisque;
+  color: #333333;
+  transform: scale(110%);
+  -webkit-transform: scale(110%);
+  -moz-transform: scale(110%);
+  -ms-transform: scale(110%);
+  -o-transform: scale(110%);
+  transition: cubic-bezier(0.215, 0.61, 0.355, 1) ease-in-out;
+  -webkit-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -moz-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -ms-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -o-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.button5 {
+  background-color: #8b4513;
+  color: azure;
+  font-family: "Questrial", serif;
+  font-weight: 700;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-column: repeat(3, 1fr);
+  gap: 2.5rem;
+  text-align: center;
+  font-size: medium;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.button5:hover {
+  cursor: pointer;
+  background-color: bisque;
+  color: #333333;
+  transform: scale(110%);
+  -webkit-transform: scale(110%);
+  -moz-transform: scale(110%);
+  -ms-transform: scale(110%);
+  -o-transform: scale(110%);
+  transition: cubic-bezier(0.215, 0.61, 0.355, 1) ease-in-out;
+  -webkit-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -moz-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -ms-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  -o-transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.container1 {
+  display: flex;
+  grid-column: repeat(3, 1fr);
+  gap: 2.5rem;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.wrapper1 {
+  width: 380px;
+  height: 250px;
+  border-radius: 40px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.wrapper2 {
+  width: 380px;
+  height: 250px;
+  border-radius: 40px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.wrapper3 {
+  width: 380px;
+  height: 250px;
+  border-radius: 40px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.container2 {
+  display: flex;
+  grid-column: repeat(2, 1fr);
+  gap: 2.5rem;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.wrapper4 {
+  width: 380px;
+  height: 250px;
+  border-radius: 40px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.wrapper5 {
+  width: 380px;
+  height: 250px;
+  border-radius: 40px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+@media screen and (min-width: 476px) {
+}
