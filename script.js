@@ -1,15 +1,15 @@
 function pemain() {
-  window.open("http://127.0.0.1:5500/pemain.htm");
+  window.open("https://riezaekatomara.github.io/whoisit-pemain");
 }
 function klub() {
-  window.open("http://127.0.0.1:5500/klub.htm");
+  window.open("https://riezaekatomara.github.io/whoisit-klub");
 }
 function negara() {
-  window.open("http://127.0.0.1:5500/negara.htm");
+  window.open("https://riezaekatomara.github.io/whoisit-negara");
 }
 function ml() {
-  window.open("http://127.0.0.1:5500/ml.htm");
+  window.open("https://riezaekatomara.github.io/whoisit-ml");
 }
 function naruto() {
-  window.open("http://127.0.0.1:5500/naruto.htm");
+  window.open("https://riezaekatomara.github.io/whoisit-naruto");
 }
